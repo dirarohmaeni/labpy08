@@ -54,6 +54,9 @@ Keluar: Menghentikan program.
 
 
 git clone <URL_REPOSITORY>
+
+
+
 cd <NAMA_FOLDER>
 
 
