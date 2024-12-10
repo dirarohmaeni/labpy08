@@ -153,12 +153,3 @@ Program ini tidak menyimpan data secara permanen. Data akan hilang setelah progr
 
 
 
-# Lisensi
-
-
-
-Program ini dirilis di bawah lisensi MIT. Silakan lihat file LICENSE untuk informasi lebih lanjut.
-
-
-
-
